@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+
+.oswald-fontlol {
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 450;
+    font-style: normal;
+  }
+
+body{
+    background-color: rgb(204, 209, 209);
+}
+
+.header1{
+ color: rgb(21, 20, 20);
+ font-family: "Oswald", serif;
+ font-size: 40px;
+ box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+ padding: 21px;
+ background-color: rgb(171, 175, 175);
+
+}
+
+.header11{
+    color: rgb(0, 0, 0);
+    font-family: "Oswald", serif;
+    font-size: 17px;
+   
+  
+   }
+
+  
+
+footer{
+    color:white;
+    font-family: "Trilong", serif;
+    font-style:normal;
+    font-size: 21px;
+    text-align: center;
+    margin-bottom: 0px;
+    position: fixed;
+  bottom: 0;
+    width: 100%;
+    background-image: linear-gradient(rgb(14, 50, 50),rgb(8, 29, 29), black);}
